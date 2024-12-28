@@ -17,7 +17,7 @@ local Window = OrionLib:MakeWindow({
     }
 })
 
--- Tabs for the GUI
+-- Tabs for the GUI1
 local HomeTab = Window:MakeTab({
     Name = "Home",
     Icon = "rbxassetid://6031068420", -- Home icon
