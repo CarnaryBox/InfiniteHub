@@ -89,7 +89,7 @@ local function enableAimbot()
                 end
             end
         end
-    end)
+    )
 end
 
 CombatTab:AddToggle({
@@ -696,7 +696,3 @@ end
 
 
 OrionLib:Init()
-
-
-
-
